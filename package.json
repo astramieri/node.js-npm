@@ -1,0 +1,23 @@
+{
+  "name": "node.js-npm",
+  "version": "1.0.0",
+  "description": "Simple package creation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astramieri/node.js-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "Angelo Stramieri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/astramieri/node.js-npm/issues"
+  },
+  "homepage": "https://github.com/astramieri/node.js-npm#readme"
+}
